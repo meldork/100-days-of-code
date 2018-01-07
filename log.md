@@ -3,11 +3,11 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished intro to Javascript on CodeAcademy
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Completed the intro and first level to CodeAcademy's Javascript course... Feeling good. Can't decide if I am able to focus completely on it because it's late at night, or if coding is just that interesting to me. It's just solving infinite problems, I love it. To do tomorrow - Check out ZIM maybe? Brush up on some HTML/CSS script... Find ways to make my life easier.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [CodeAcademy](http://www.codeacademy.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
