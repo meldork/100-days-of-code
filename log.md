@@ -12,11 +12,11 @@
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Refreshers to h, p, class, IDs, font styling, google fonts.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Did 20 challenges of for freecodecamp, and feeling great about the refreshers that comes with it. I wish I had done it earlier in the day, so I have a plan to code earlier in the day instead of really late at night. I'm going to hate myself tomorrow morning, but that's okay, just means that I'll have to do it earlier. I knew all of the CSS and HTML introductions that freecodecamp was introducing to me, so a soft start is nice. Tomorrow, I'm doing at least 30 challenges.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [FreeCodeCamp profile](https://www.freecodecamp.org/meldork)
 
 
 ### Day 1: June 27, Monday
